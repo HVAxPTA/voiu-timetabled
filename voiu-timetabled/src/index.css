@@ -1,0 +1,13 @@
+.header h1{
+    color: #0B7285; /* Elegant teal */
+    font-weight: 700;
+}
+
+.header h3{
+    color: #B23A48;
+  font-family: 'Segoe UI', sans-serif;
+  font-size: 1.1rem;
+  text-align: center;
+  text-shadow: 0 1px 3px rgba(0,0,0,0.1);
+}
+
