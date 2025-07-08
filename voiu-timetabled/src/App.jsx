@@ -9,6 +9,7 @@ const App = () => {
         <div>
             <Header></Header>
             <Schedule></Schedule>
+            <Schedule></Schedule>
         </div>
     )
 }
